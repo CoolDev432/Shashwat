@@ -15,7 +15,7 @@ function Contact(props) {
                     Contact Me!
                 </h1>
                 <form
-                    action="https://formsubmit.co/shashwat.codes12@gmail.com"
+                    action="https://formsubmit.co/shashwat3796@gurukultheschool.com"
                     method="POST"
                     className="flex flex-col gap-5 w-full"
                 >
